@@ -6,7 +6,7 @@ This plugin is made with the intention of giving designers the freedom to import
 
 ## Team Members
 [John Philip George](https://github.com/johnforgit)  
-[Manukrihsnan P](https://github.com/manukris-mk8)  
+[Manukrishnan P](https://github.com/manukris-mk8)  
 [Sreevardhan P](https://github.com/SreevardhanP)  
 
 ## The working
